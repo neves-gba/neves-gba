@@ -1,6 +1,6 @@
-- 👋 Opa, me chamo Gabriel, sou estudante de Análise e Desenvolv. de Sistemas e tenho 26 anos. 
-- 👀 Migrando para área de tecnologia
-- 🌱 Estou aprendendo HTML5, CSS3 e JavaScript 
+- 👋 Opa, me chamo Gabriel, sou formado em Análise e Desenvolv. de Sistemas. 
+- 👀 Buscando realocação para a área de dados
+- 🌱 Estou me aperfeiçoando em Pandas, Pyspark e também tenho bastante experiência em SQL e Excel 
 - 💞️ Amante de musica, guitarrista de quarto e fissurado em tecnologia e games
 - 📫 LinkedIn :https://www.linkedin.com/in/gabrielsgneves/
 
